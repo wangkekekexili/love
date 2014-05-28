@@ -1,3 +1,16 @@
-#myCanvs {
-	margin: auto;
+#yiyang-2048 {
+	position: fixed;
+	left: 80%;
+	height: auto;
+	width: 120px;
+	text-align: center;
+}
+
+#yiyang-2048 a {
+	text-decoration: none;
+	color: black;
+}
+
+#yiyang-2048 a img {
+	width: 100%;
 }
