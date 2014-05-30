@@ -13,6 +13,7 @@ body {
 }
 
 #yiyang-2048 {
+    margin-top:10px;
 	position: fixed;
 	left: 80%;
 	height: auto;
@@ -37,6 +38,6 @@ body {
 
 #footer {
     background-color: #2c3e50;
-    min-height: 186px;
+    min-height: 193px;
     width:100%;
 }
